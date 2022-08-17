@@ -103,11 +103,12 @@ section img#mountains_front {
 
 #text {
     position: absolute;
+    right: -350px;
     color: #fff;
     white-space: nowrap;
     font-size: 7.5vw;
     z-index: 9;
-    transform: translateY(100px);
+    
 }
 
 .btn {
